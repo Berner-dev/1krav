@@ -19,7 +19,7 @@ public class Main {
         System.out.print ("Er det en nødsituation´?");
         String nødtilstand = scanner.nextLine(). toLowerCase();
 
-        //test
+        //test//
 
         //
 
